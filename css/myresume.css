@@ -26,19 +26,19 @@ p.lead {
 }
 
 .bg-primary {
-	background-color:  #001226;
+	background-color:  #0010c2!;
 	background-image: url(../assets/img/always-grey.png);
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
 .text-primary {
-    color:  #001226;
+    color:  #0010c2!;
 }
 
 a {
-    color:  #001226;
+    color:  #0010c2;
 }
 
 .social-icons .social-icon:hover {
-    background-color:  #001226;
+    background-color:  #0010c2;
 }
